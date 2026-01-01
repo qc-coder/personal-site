@@ -3,23 +3,86 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hello World</title>
+  <title>Dr. Vladimir Milchakov - Personal Site</title>
   <style>
     body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
       margin: 0;
-      background-color: #f0f0f0;
       font-family: Arial, sans-serif;
-    }
-    h1 {
+      background-color: #f8f9fa;
       color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 1.5em 0 0.5em;
+    }
+    .contact-bar {
+      background-color: #34495e;
+      text-align: center;
+      padding: 0.5em 0;
+    }
+    .contact-bar a {
+      color: #ecf0f1;
+      text-decoration: none;
+      margin: 0 1em;
+    }
+    .contact-bar a:hover {
+      text-decoration: underline;
+    }
+    main {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 0 1em;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 0.3em;
+    }
+    footer {
+      text-align: center;
+      padding: 1em 0;
+      font-size: 0.9em;
+      color: #666;
     }
   </style>
 </head>
 <body>
-  <h1>Hello, world!</h1>
+  <header>
+    <h1>Dr. Vladimir Milchakov</h1>
+    <p>Quantum Hardware Physicist | Founder | Researcher</p>
+  </header>
+
+  <div class="contact-bar">
+    <a href="mailto:vladimir.milchakov@gmail.com">vladimir.milchakov@gmail.com</a> |
+    <a href="https://www.linkedin.com/in/vladqc/">LinkedIn</a> |
+    <span>Paris, France</span>
+  </div>
+
+  <main>
+    <h2>Bio</h2>
+    <p>
+      I am a quantum hardware physicist with over a decade of experience in superconducting circuits,
+      circuit QED experiments, and qubit coherence. My work spans the full stack — from chip design 
+      and simulations to nanofabrication, cryogenic systems, and quantum measurements — with a focus 
+      on scalable, fault-tolerant quantum processors.
+    </p>
+    <p>
+      Over the past ten years, I have contributed to leading European quantum startups, including Alice & Bob 
+      and IQM Quantum Computers, where I led projects improving qubit coherence, reducing noise, and 
+      optimizing fabrication processes. During my PhD at CNRS Institut Néel, I developed cQED experiments 
+      that significantly enhanced qubit performance.
+    </p>
+    <p>
+      I am now based in Paris, establishing a company focused on producing high-coherence, 
+      scalable quantum processors for civil and public-domain applications.
+    </p>
+  </main>
+
+  <footer>
+    <p>© 2026 Dr. Vladimir Milchakov. All rights reserved.</p>
+  </footer>
 </body>
 </html>
