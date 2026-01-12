@@ -1,0 +1,59 @@
+baseURL = "https://vladimirmilchakov.com/"
+languageCode = "en-us"
+title = "Vladimir Milchakov"
+theme = "PaperMod"
+relativeURLs = false
+canonifyURLs = false
+
+
+[params]
+  author = "Vladimir Milchakov"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  hideFooter = true
+  ShowHeadingAnchors = false
+  description = "Quantum hardware engineer and founder working on superconducting quantum processors."
+  images = ["images/Vladimir Milchakov portrait.jpg"]
+  env = "production"
+
+[params.assets]
+    disableFingerprinting = true
+
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		url = "/"
+		weight = 1
+
+	[[menu.main]]
+		identifier = "linkedin"
+		name = "LinkedIn"
+		url = "https://www.linkedin.com/in/vladqc/"
+		weight = 2
+
+	[[menu.main]]
+		identifier = "email"
+		name = "Email me"
+		url = "mailto:vladimir.milchakov@gmail.com"
+		weight = 3
+
+	[[menu.main]]
+		identifier = "publications"
+		name = "Publications"
+		url = "/publications/"
+		weight = 4
+
+	[[menu.main]]
+		identifier = "cv"
+		name = "Download CV"
+		url = "/files/cv_milchakov.pdf"
+		weight = 5
