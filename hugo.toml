@@ -14,9 +14,12 @@ canonifyURLs = false
   ShowBreadCrumbs = false
   hideFooter = true
   ShowHeadingAnchors = false
-  description = "Quantum hardware engineer and founder working on superconducting quantum processors."
+  description = "Vladimir Milchakov, experimental physicist: Founder and CEO of Apex Qubits, Research Fellow in the QCD group at Aalto University."
   images = ["images/Vladimir Milchakov portrait.jpg"]
   env = "production"
+
+[params.schema]
+  publisherType = "Person"
 
 [params.assets]
     disableFingerprinting = true
