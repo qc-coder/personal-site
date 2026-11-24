@@ -1,3 +1,6 @@
+{{- /* Copy of themes/PaperMod/layouts/_default/list.html with two changes, so the home page gets an <h1>:
+     the page title also shows on the home page, and the description stays hidden there.
+     If you update PaperMod, re-copy its list.html and reapply these two changes. */ -}}
 {{- define "main" }}
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
