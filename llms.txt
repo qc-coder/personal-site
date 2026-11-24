@@ -1,0 +1,17 @@
+# Vladimir Milchakov
+
+> Vladimir Milchakov, experimental physicist: Founder and CEO of Apex Qubits, Research Fellow in the QCD group at Aalto University.
+
+## Key facts
+- Founder and CEO, Apex Qubits (pre-incorporation), since November 2025
+- Research Fellow, Quantum Computing and Devices (QCD) group, Aalto University, since June 2026
+- Staff Engineer, Alice & Bob, August 2024 to January 2025
+- Technical Project Leader, Qubit Coherence Project, IQM Quantum Computers, August 2022 to March 2024
+- QPU Design Engineer, IQM Quantum Computers, October 2021 to March 2024
+- PhD in Physics, CNRS Institut Néel, Université Grenoble Alpes, Grenoble, 2022
+
+## Pages
+- [Home](https://vladimirmilchakov.com/): roles, experience, expertise and point of view
+- [Publications](https://vladimirmilchakov.com/publications/): list of papers
+- [CV](https://vladimirmilchakov.com/files/cv_milchakov.pdf): CV as a PDF
+- [Apex Qubits](https://apexqubits.com/): the company site
