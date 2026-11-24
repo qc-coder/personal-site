@@ -4,6 +4,17 @@ description: "Official photos of Vladimir Milchakov from different years and dif
 ---
 <h1>Vladimir Milchakov</h1>
 
+<img src="/images/Vladimir Milchakov presenting a packaged quantum chip at Aalto Inventors 2026.jpg"
+     alt="Vladimir Milchakov holding up a packaged quantum chip from its case at the Aalto Inventors final pitch, November 2026">
+
+<img src="/images/Vladimir Milchakov pitching Apex Qubits at Aalto Inventors 2026.jpg"
+     alt="Vladimir Milchakov pitching Apex Qubits on stage at the Aalto Inventors final pitch, November 2026">
+
+<img src="/images/Vladimir Milchakov at the Aalto Inventors winner announcement 2026.jpg"
+     alt="Vladimir Milchakov on stage at the Aalto Inventors winner announcement, November 2026">
+
+<small>Aalto Inventors photos, November 2026: Ahti Brummer / Aalto Inventors.</small>
+
 <img src="/images/Vladimir Milchakov working with Quantum Computer of IQM Quantum Computers.jpg"
      alt="Vladimir Milchakov working with a superconducting quantum computer at IQM Quantum Computers">
 
@@ -15,13 +26,3 @@ description: "Official photos of Vladimir Milchakov from different years and dif
 
 <img src="/images/Vladimir Milchakov and Juho Hotari loading Bluefors fridge in IQM Quantum Computers.jpg"
      alt="Vladimir Milchakov and Juho Hotari loading a Bluefors dilution refrigerator at IQM Quantum Computers">
-
-<img src="/images/Vladimir Milchakov with a CNRS Quantum Computer year 2019.jpg"
-     alt="Vladimir Milchakov with a quantum computing experiment at CNRS in 2019">
-
-<img src="/images/Vladimir Milchakov working in AliceBob Paris.jpeg"
-     alt="Vladimir Milchakov working on superconducting quantum hardware at Alice and Bob in Paris">
-	 
-
-
-
